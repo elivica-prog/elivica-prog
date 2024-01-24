@@ -1,6 +1,6 @@
 ### Hola a Todos 👋
 
-Bienvenido a mi perfil personal de GitHub :octocat:
+Bienvenido a mi perfil personal de **GitHub** :octocat:
 
 * :office: Soy estudiante de la Universidad Cristóbal Colón.
 * :computer: Estudio Ingeniería en Sistemas Computacionales.
